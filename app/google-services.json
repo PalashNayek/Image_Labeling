@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "474776777822",
+    "firebase_url": "https://myinterpro-default-rtdb.firebaseio.com",
+    "project_id": "myinterpro",
+    "storage_bucket": "myinterpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474776777822:android:3e6a8015566d035ee9b0cf",
+        "android_client_info": {
+          "package_name": "com.palash.fcm_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PovXMUg97lLGu3jMunBGel9Ou4iBlfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474776777822:android:e3f5830d9da0b8d6e9b0cf",
+        "android_client_info": {
+          "package_name": "com.palash.image_labeling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PovXMUg97lLGu3jMunBGel9Ou4iBlfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474776777822:android:fe589f552ec1d449e9b0cf",
+        "android_client_info": {
+          "package_name": "com.palash.realtime_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PovXMUg97lLGu3jMunBGel9Ou4iBlfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
